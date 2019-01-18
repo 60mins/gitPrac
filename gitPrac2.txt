@@ -4,3 +4,5 @@ github test
 branch1Modify
 BModify
 Bconflict
+AconflictTest
+
