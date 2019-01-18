@@ -3,3 +3,4 @@ gitPrac2 edition2
 github test
 branch1Modify
 BModify
+Bconflict
